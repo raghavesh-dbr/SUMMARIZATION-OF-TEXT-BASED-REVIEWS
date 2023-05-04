@@ -1,0 +1,22 @@
+# SUMMERATIZATION-OF-TEXT-BASED-REVIEWS
+A machine learning model which gives summaries for a context of text given.
+
+## DATASET
+AMAZON FINE FOOD REVIEWS [Dataset Link](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews)
+
+
+## SOFTWARE REQUIREMENTS
+1. Python
+2. Other package requirements are found in **requirements.txt**.
+
+### How to execute
+Branch `main` contains code for the model.
+
+1. Clone the repository from the github link using \
+`git clone https://github.com/RoshanAdhithya/Text-Inclusive-Image-Captioning.git` or download as zip as shown \
+![Downloadzip](zipcode.png)
+
+2. Install required packages using \
+`pip install -r requirements.txt`.
+
+
