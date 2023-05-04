@@ -13,10 +13,10 @@ AMAZON FINE FOOD REVIEWS [Dataset Link](https://www.kaggle.com/datasets/snap/ama
 Branch `main` contains code for the model.
 
 1. Clone the repository from the github link using \
-`git clone https://github.com/RoshanAdhithya/Text-Inclusive-Image-Captioning.git` or download as zip as shown \
+`git clone https://github.com/raghavesh-dbr/SUMMARIZATION-OF-TEXT-BASED-REVIEWS.git` or download as zip as shown \
 ![Downloadzip](zipcode.png)
 
 2. Install required packages using \
 `pip install -r requirements.txt`.
 
-
+3. Execute summarize_reviews1-Copy1.ipynb
