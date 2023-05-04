@@ -1,7 +1,7 @@
-# SUMMERATIZATION-OF-TEXT-BASED-REVIEWS
+SUMMERATIZATION-OF-TEXT-BASED-REVIEWS
 A machine learning model which gives summaries for a context of text given.
 
-## DATASET
+DATASET
 AMAZON FINE FOOD REVIEWS [Dataset Link](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews)
 
 
